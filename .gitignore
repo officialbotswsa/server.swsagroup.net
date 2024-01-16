@@ -1,33 +1,39 @@
-# Gradle files
-.gradle/
-build/
 
-# Local configuration file (sdk path, etc)
-local.properties
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contoh Gambar di HTML</title>
+</head>
+<body>
+  <h1>SWSAGroup server.swsagroup.net
+  <p>Web domain direct: to swsagroup.co.id then -- direct to www.swsagroup.biz.id -- www.swsagroup.rf.gd
+  <p>
+    <img src=server.jpg
+  </p>
+</body>
+</html><h1>SWSAGroup Server</h1><p>serverid: 0092811</p>web server: net.swsagroup.server<p>Direct to server.swsagroup.net<h1>PT. SATU NUSA MEDIA NUSANTARA<p>acess to: swsagroup.id<p>access id 1020202024042 Wordpress Access: 284156 - 999077
+<form action="action_page.php" method="post">
+  <div class="imgcontainer">
+    <img src="img_avatar2.png" alt="Avatar" class="avatar">
+  </div>
 
-# Log/OS Files
-*.log
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
 
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
 
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+    <button type="submit">Login</button>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
 
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+  <div class="container" style="background-color:#f1f1f1">
+    <button type="button" class="cancelbtn">Cancel</button>
+    <span class="psw">Forgot <a href="#">password?</a></span>
+  </div>
+</form>
+<form> 
